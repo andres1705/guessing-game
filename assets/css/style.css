@@ -1,6 +1,7 @@
-#code-output {
-    width: 300px;
-    background: black;
-    color: lime;
-    font-size:14px;
-    border: 1px dashed red;
+body {
+	background-image: url();
+	background-size: cover;
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 960px;
+}
